@@ -2,25 +2,24 @@
 (© Caue Stocco, 2025. Todos os direitos reservados.)
 
 ✖ PROIBIÇÕES
-Cópia total/parcial, redistribuição ou uso em projetos (abertos ou fechados)
+Qualquer cópia, modificação, distribuição ou uso (comercial/pessoal) sem autorização explícita.
 
-Modificação, engenharia reversa ou uso comercial sem autorização por escrito
+Engenharia reversa ou integração em outros projetos.
 
 ✔ PERMISSÕES
-Uso pessoal não comercial (estudo, debug local)
+Acesso concedido APENAS para:
 
-Citações pontuais (com créditos e link para este repositório)
+Pessoas diretamente autorizadas por mim (lista abaixo).
 
-Cópia ou uso específico APENAS PARA USUÁRIOS AUTORIZADOS
+Uso estritamente pessoal (sem redistribuição).
 
 ⚖ CONSEQUÊNCIAS LEGAIS
-Violações estarão sujeitas a ações judiciais nos termos da Lei de Direitos Autorais (Lei 9.610/98).
+Violações serão tratadas conforme a Lei 9.610/98 (Direitos Autorais) e leis internacionais.
 
-📩 LICENCIAMENTO
-Para solicitar permissão:
-📧 cauestoccodacruz@gmail.com
-(Inclua nome, finalidade e período de uso)
+👥 USUÁRIOS AUTORIZADOS
+(Adicionados manualmente por Caue Stocco)
 
-Usuários autorizados:
-(Adicione IDs do GitHub ou nomes posteriormente)
+@username-github-1 (ex.: amigo de confiança)
+
+@username-github-2
 
